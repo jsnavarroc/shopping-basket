@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="makeStyles-root-1"
+  >
+    <div
+      className="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation5"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-8"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+        >
+          <div
+            className="MuiTypography-root MuiTypography-h1"
+          >
+            <span
+              className="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse"
+              style={
+                Object {
+                  "height": undefined,
+                  "width": undefined,
+                }
+              }
+            />
+          </div>
+          <div
+            className="MuiTypography-root MuiTypography-h1"
+          >
+            <span
+              className="MuiSkeleton-root MuiSkeleton-text MuiSkeleton-pulse"
+              style={
+                Object {
+                  "height": undefined,
+                  "width": undefined,
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
